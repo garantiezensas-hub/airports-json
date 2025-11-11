@@ -38,13 +38,13 @@
   {"name":"Ekaterinbourg (SVX)"},
   {"name":"Novossibirsk (OVB)"},
 
-  {"name":"Montreal (YUL)"},
+  {"name":"Montréal (YUL)"},
   {"name":"Toronto (YYZ)"},
   {"name":"Vancouver (YVR)"},
   {"name":"Calgary (YYC)"},
   {"name":"Ottawa (YOW)"},
   {"name":"Edmonton (YEG)"},
-  {"name":"Quebec (YQB)"},
+  {"name":"Québec (YQB)"},
 
   {"name":"Abidjan (ABJ)"},
   {"name":"Accra (ACC)"},
@@ -64,5 +64,12 @@
   {"name":"Casablanca (CMN)"},
   {"name":"Tunis (TUN)"},
   {"name":"Alger (ALG)"},
-  {"name":"Libreville (LBV)"}
+  {"name":"Libreville (LBV)"},
+
+  {"name":"Bamako (BKO)"},        
+  {"name":"Ouagadougou (OUA)"},    
+  {"name":"Niamey (NIM)"},         
+  {"name":"Porto-Novo"}, 
+ 
+  {"name":"LUX (Luxembourg)"}      
 ]

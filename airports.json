@@ -45,7 +45,7 @@
   {"name":"🇨🇦 Calgary (YYC)","city":"Calgary","country":"Canada","lat":51.1139,"lng":-114.0206},
   {"name":"🇨🇦 Ottawa (YOW)","city":"Ottawa","country":"Canada","lat":45.3225,"lng":-75.6692},
   {"name":"🇨🇦 Edmonton (YEG)","city":"Edmonton","country":"Canada","lat":53.3097,"lng":-113.5806},
-  {"name":"🇨🇦 Québec (YQB)","city":"Quebec","country":"Canada","lat":46.7919,"lng":-71.3939}
+  {"name":"🇨🇦 Québec (YQB)","city":"Quebec","country":"Canada","lat":46.7919,"lng":-71.3939},
 
 
 
@@ -92,7 +92,7 @@
   {"name":"🇺🇬 Entebbe (EBB)","city":"Entebbe","country":"Uganda","lat":0.042,"lng":32.443},
   {"name":"🇲🇦 Marrakech (RAK)","city":"Marrakech","country":"Morocco","lat":31.607,"lng":-8.036},
   {"name":"🇸🇴 Mogadiscio (MGQ)","city":"Mogadishu","country":"Somalia","lat":2.007,"lng":45.345},
-  {"name":"🇱🇾 Tripoli (TIP)","city":"Tripoli","country":"Libya","lat":32.663,"lng":13.159}
+  {"name":"🇱🇾 Tripoli (TIP)","city":"Tripoli","country":"Libya","lat":32.663,"lng":13.159},
 
 
 
@@ -153,7 +153,7 @@
 
   {"name":"🇬🇧 Manchester (MAN)","city":"Manchester","country":"UK","lat":53.365,"lng":-2.272},
   {"name":"🇬🇧 Édimbourg (EDI)","city":"Edinburgh","country":"UK","lat":55.95,"lng":-3.372},
-  {"name":"🇮🇪 Dublin (DUB)","city":"Dublin","country":"Ireland","lat":53.421,"lng":-6.270}
+  {"name":"🇮🇪 Dublin (DUB)","city":"Dublin","country":"Ireland","lat":53.421,"lng":-6.270},
 
 
 
@@ -212,6 +212,6 @@
   {"name":"🇨🇺 La Havane (HAV)","city":"Havana","country":"Cuba","lat":23.074,"lng":-82.378},
   {"name":"🇯🇲 Kingston (KIN)","city":"Kingston","country":"Jamaica","lat":17.935,"lng":-76.787},
   {"name":"🇧🇸 Nassau (NAS)","city":"Nassau","country":"Bahamas","lat":25.077,"lng":-77.355},
-  {"name":"🇵🇷 San Juan (SJU)","city":"San Juan","country":"Puerto Rico","lat":18.439,"lng":-66.001}
+  {"name":"🇵🇷 San Juan (SJU)","city":"San Juan","country":"Puerto Rico","lat":18.439,"lng":-66.001},
 ]
 

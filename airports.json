@@ -1,4 +1,5 @@
-[
+{
+  "airports": [
   {"name":"🇫🇷 Paris (CDG)","city":"Paris","country":"France","lat":49.0097,"lng":2.5479},
   {"name":"🇫🇷 Paris (ORLY)","city":"Paris","country":"France","lat":48.7233,"lng":2.3794},
   {"name":"🇫🇷 Lyon (LYS)","city":"Lyon","country":"France","lat":45.7256,"lng":4.0814},
@@ -212,6 +213,7 @@
   {"name":"🇨🇺 La Havane (HAV)","city":"Havana","country":"Cuba","lat":23.074,"lng":-82.378},
   {"name":"🇯🇲 Kingston (KIN)","city":"Kingston","country":"Jamaica","lat":17.935,"lng":-76.787},
   {"name":"🇧🇸 Nassau (NAS)","city":"Nassau","country":"Bahamas","lat":25.077,"lng":-77.355},
-  {"name":"🇵🇷 San Juan (SJU)","city":"San Juan","country":"Puerto Rico","lat":18.439,"lng":-66.001},
+  {"name":"🇵🇷 San Juan (SJU)","city":"San Juan","country":"Puerto Rico","lat":18.439,"lng":-66.001}
 ]
-
+  
+}
